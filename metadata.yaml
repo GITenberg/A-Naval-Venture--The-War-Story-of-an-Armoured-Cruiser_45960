@@ -1,0 +1,38 @@
+_repo: A-Naval-Venture--The-War-Story-of-an-Armoured-Cruiser_45960
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gillett, Frank
+    aliases:
+    - Gillett, Edward Frank
+    - Gillett, F.
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '40046'
+    url: http://www.gutenberg.org/2009/agents/40046
+covers:
+- cover_type: archival
+  image_path: 45960-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Jeans, T. T. (Thomas Tendron)
+    alias: Jeans, Thomas Tendron
+    gutenberg_agent_id: '43520'
+    url: http://www.gutenberg.org/2009/agents/43520
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Fiction'
+- !lcsh 'Great Britain. Royal Navy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula -- Fiction'
+title: 'A Naval Venture: The War Story of an Armoured Cruiser'
+url: http://www.gutenberg.org/ebooks/45960
